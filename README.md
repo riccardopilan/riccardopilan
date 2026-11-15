@@ -1,4 +1,4 @@
-#Riccardo Pilan
+# Riccardo Pilan
 
 ### 🎓 MSc Data Science Student @ UniPD | BSc in Mathematics | 📍 Padova, Italy
 
